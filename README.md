@@ -1,6 +1,6 @@
 # WellComing | Bem-Vindo ao Urbano!
 
-**WellComing** é um site desenvolvido para fornecer informações e recursos sobre acessibilidade, com foco em transformar o texto exibido na página entre maiúsculas e minúsculas. Este projeto inclui uma interface amigável com um menu de opções flutuante e um mecanismo de navegação acessível.
+**WellComing** é um site feito para pessoas recém chegadas do meio rural ao meio urbano. Este projeto inclui uma interface amigável com um menu de opções e um mecanismo de leitura acessível.
 
 ## Índice
 
