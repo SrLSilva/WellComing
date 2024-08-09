@@ -28,13 +28,15 @@ Para rodar o projeto localmente, siga estes passos:
 
 1. Clone o repositório:
 
-	git clone https://github.com/username/wellcoming.git
+	git clone [https://github.com/username/wellcoming.git](https://github.com/SrLSilva/WellComing.git)
 
 Navegue até o diretório do projeto:
 
 	cd wellcoming
 
 Abra o arquivo index.html em um navegador web de sua escolha.
+
+(Ou instale o zip através deste repositório)
 
 ## Uso
 
