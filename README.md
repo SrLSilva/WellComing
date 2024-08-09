@@ -40,7 +40,7 @@ Descompacte "Projeto.rar".
 
 Acesse a pasta "Structure".
 
-Abra o arquivo index.html em um navegador web de sua escolha.
+Abra o arquivo "index.html" em um navegador web de sua escolha.
 
 ## Uso
 
