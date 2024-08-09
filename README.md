@@ -30,13 +30,17 @@ Para rodar o projeto localmente, siga estes passos:
 
 	git clone https://github.com/SrLSilva/WellComing.git
 
-Navegue até o diretório do projeto:
+Instale o ZIP ("WellComming-main.rar") com o projeto do repositório.
 
-	cd WellComing
+Navegue até o dowload pelo Explorador de Arquivos (ou outra ferramenta de manipulação de arquivos).
+
+Descompacte "WellComming-main.rar", acesse a pasta "WellComming-main".
+
+Descompacte "Projeto.rar".
+
+Acesse a pasta "Structure".
 
 Abra o arquivo index.html em um navegador web de sua escolha.
-
-(Ou instale o zip através deste repositório)
 
 ## Uso
 
