@@ -60,16 +60,12 @@ Faça um fork do repositório.
 
 Crie uma branch para suas mudanças:
 
--
-git checkout -b minha-nova-feature
+- git checkout -b minha-nova-feature
 Faça commit das suas mudanças:
--
-git commit -m "Adiciona nova funcionalidade"
+- git commit -m "Adiciona nova funcionalidade"
 Envie suas mudanças para o repositório remoto:
--
-git push origin minha-nova-feature
+- git push origin minha-nova-feature
 Abra um pull request no GitHub.
--
 
 ## Licença
 
