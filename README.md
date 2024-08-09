@@ -36,7 +36,7 @@ Navegue até o diretório do projeto:
 
 Abra o arquivo index.html em um navegador web de sua escolha.
 
-Uso
+##Uso
 
 Página Inicial: Acesse a página inicial (arquivo index.html) para visualizar as informações sobre o site.
 
@@ -52,7 +52,7 @@ Menu de Navegação: Acesse as seções "Início", "Sobre" e "Ajuda" com facilid
 
 Acessibilidade: Interface projetada para ser amigável e acessível, com transformação de texto.
 
-Contribuição
+##Contribuição
 
 Se você deseja contribuir para o projeto, siga estas etapas:
 
@@ -71,7 +71,7 @@ git push origin minha-nova-feature
 Abra um pull request no GitHub.
 -
 
-Licença
+##Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
