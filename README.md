@@ -38,7 +38,7 @@ Abra o arquivo index.html em um navegador web de sua escolha.
 
 Uso
 
-Página Inicial: Acesse a página inicial para visualizar as informações sobre o site e o botão de transformação de texto.
+Página Inicial: Acesse a página inicial (arquivo index.html) para visualizar as informações sobre o site.
 
 Botões de Transformação de Texto: Use os botões "Minúsculas" e "Maiúsculas" para alternar a exibição do texto.
 
@@ -60,17 +60,16 @@ Faça um fork do repositório.
 
 Crie uma branch para suas mudanças:
 
---
+-
 git checkout -b minha-nova-feature
 Faça commit das suas mudanças:
---
-
+-
 git commit -m "Adiciona nova funcionalidade"
 Envie suas mudanças para o repositório remoto:
---
+-
 git push origin minha-nova-feature
 Abra um pull request no GitHub.
---
+-
 
 Licença
 
